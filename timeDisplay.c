@@ -1,3 +1,4 @@
+//author: Nathan Yu
 #include <bcm2835.h>
 #include <stdio.h>
 #include <time.h>
