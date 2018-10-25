@@ -8,9 +8,9 @@ To run:
 3. install bcm2835 library 
 4. run the following command:
 
-`
+```
 gcc -o timeDisplay timeDisplay.c -lbcm2835
 sudo ./timeDisplay
-`
+```
 
 Note: `sudo` is required because you need access to the SPI interface
