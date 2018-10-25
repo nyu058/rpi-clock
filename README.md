@@ -5,7 +5,7 @@ To run:
 1. buy this display unit (or similar) : https://www.ebay.ca/itm/Raspberry-Pi-LED-Display-Matrix-MAX7219-Dot-Matrix-Module-for-RPi-Model-B-B-/281644858680?hash=item4193577d38
 
 2. download the .c file
-3. install bcm2835 library 
+3. install bcm2835 library: https://www.airspayce.com/mikem/bcm2835/
 4. run the following command:
 
 ```
